@@ -12,7 +12,7 @@
   - programming
   - chess
   - fitness
-Connect with me on [LinkedIn](https://www.linkedin.com/in/steven-cornwall-b4551b20b/)
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/steven-cornwall-b4551b20b/)
 <!--
 **taylorcornwall766/taylorcornwall766** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
